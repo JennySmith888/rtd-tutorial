@@ -1,0 +1,4 @@
+fpbinary
+pyserial
+numpy
+pynq
